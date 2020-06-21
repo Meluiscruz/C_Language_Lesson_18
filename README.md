@@ -8,7 +8,7 @@ This repo contains two files:
 - pointer_to_struct.c
 - alias.c
 
-The file pointer_to_struct.c was written on the Lesson 19 and the use of alias was not implemmented.
+The file pointer_to_struct.c was written on the Lesson 17 and the use of alias was not implemmented.
 
 ```c
 #include<stdio.h>
