@@ -1,5 +1,5 @@
-##Welcome to this C Language Course
-###Lesson 18: Using Alias
+# Welcome to this C Language Course
+## Lesson 18: Using Alias
 
 The use of an alias consists of "rename" the type of some variables into an equivalent tag, to close them to the natural language and give the variables a context. This feature is useful when your code grows in complexity and volume, and invoking variables and their types are easier if you previously link them to simple names.
 
